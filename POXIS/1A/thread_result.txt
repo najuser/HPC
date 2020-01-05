@@ -1,0 +1,90 @@
+#9979    DV78 $6$KB$H8s0k9/1RQ783G9gF69Xkn.MI.Dq5Ox0va/dFlkknNjO7trgekVOjTv1BKCb.nm3vqxmtO2mOplhmFkwZXecz0
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+#17380   GR79 $6$KB$EsP1JEbzKmbN.CzfjPpWW4cFmaULuLMtlwzZweeoOhv.Lq9abZ4eQaZqSzW1X9GmrC8XI4ND3L78fI9HGFrGX/
+33800 solutions explored
+#13393   SD92 $6$KB$Iu4iYgLk4Cuv1Hdc/DTrfNRXVNnKmPPat4bqInq85qs7xNapjF6ZrogA/S88rzpJIWDy27PFI6EzVsg1lL6a80
+33800 solutions explored
+Time elapsed was 254773084330ns or 254.773084330s
+#9979    DV78 $6$KB$H8s0k9/1RQ783G9gF69Xkn.MI.Dq5Ox0va/dFlkknNjO7trgekVOjTv1BKCb.nm3vqxmtO2mOplhmFkwZXecz0
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+#17380   GR79 $6$KB$EsP1JEbzKmbN.CzfjPpWW4cFmaULuLMtlwzZweeoOhv.Lq9abZ4eQaZqSzW1X9GmrC8XI4ND3L78fI9HGFrGX/
+33800 solutions explored
+#13393   SD92 $6$KB$Iu4iYgLk4Cuv1Hdc/DTrfNRXVNnKmPPat4bqInq85qs7xNapjF6ZrogA/S88rzpJIWDy27PFI6EzVsg1lL6a80
+33800 solutions explored
+Time elapsed was 252067551837ns or 252.067551837s
+#9979    DV78 $6$KB$H8s0k9/1RQ783G9gF69Xkn.MI.Dq5Ox0va/dFlkknNjO7trgekVOjTv1BKCb.nm3vqxmtO2mOplhmFkwZXecz0
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+#17380   GR79 $6$KB$EsP1JEbzKmbN.CzfjPpWW4cFmaULuLMtlwzZweeoOhv.Lq9abZ4eQaZqSzW1X9GmrC8XI4ND3L78fI9HGFrGX/
+33800 solutions explored
+#13393   SD92 $6$KB$Iu4iYgLk4Cuv1Hdc/DTrfNRXVNnKmPPat4bqInq85qs7xNapjF6ZrogA/S88rzpJIWDy27PFI6EzVsg1lL6a80
+33800 solutions explored
+Time elapsed was 252257026945ns or 252.257026945s
+#9979    DV78 $6$KB$H8s0k9/1RQ783G9gF69Xkn.MI.Dq5Ox0va/dFlkknNjO7trgekVOjTv1BKCb.nm3vqxmtO2mOplhmFkwZXecz0
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+#17380   GR79 $6$KB$EsP1JEbzKmbN.CzfjPpWW4cFmaULuLMtlwzZweeoOhv.Lq9abZ4eQaZqSzW1X9GmrC8XI4ND3L78fI9HGFrGX/
+33800 solutions explored
+#13393   SD92 $6$KB$Iu4iYgLk4Cuv1Hdc/DTrfNRXVNnKmPPat4bqInq85qs7xNapjF6ZrogA/S88rzpJIWDy27PFI6EzVsg1lL6a80
+33800 solutions explored
+Time elapsed was 253117563139ns or 253.117563139s
+#9979    DV78 $6$KB$H8s0k9/1RQ783G9gF69Xkn.MI.Dq5Ox0va/dFlkknNjO7trgekVOjTv1BKCb.nm3vqxmtO2mOplhmFkwZXecz0
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+#17380   GR79 $6$KB$EsP1JEbzKmbN.CzfjPpWW4cFmaULuLMtlwzZweeoOhv.Lq9abZ4eQaZqSzW1X9GmrC8XI4ND3L78fI9HGFrGX/
+33800 solutions explored
+#13393   SD92 $6$KB$Iu4iYgLk4Cuv1Hdc/DTrfNRXVNnKmPPat4bqInq85qs7xNapjF6ZrogA/S88rzpJIWDy27PFI6EzVsg1lL6a80
+33800 solutions explored
+Time elapsed was 255710883384ns or 255.710883384s
+#9979    DV78 $6$KB$H8s0k9/1RQ783G9gF69Xkn.MI.Dq5Ox0va/dFlkknNjO7trgekVOjTv1BKCb.nm3vqxmtO2mOplhmFkwZXecz0
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+#17380   GR79 $6$KB$EsP1JEbzKmbN.CzfjPpWW4cFmaULuLMtlwzZweeoOhv.Lq9abZ4eQaZqSzW1X9GmrC8XI4ND3L78fI9HGFrGX/
+33800 solutions explored
+#13393   SD92 $6$KB$Iu4iYgLk4Cuv1Hdc/DTrfNRXVNnKmPPat4bqInq85qs7xNapjF6ZrogA/S88rzpJIWDy27PFI6EzVsg1lL6a80
+33800 solutions explored
+Time elapsed was 253300964273ns or 253.300964273s
+#9979    DV78 $6$KB$H8s0k9/1RQ783G9gF69Xkn.MI.Dq5Ox0va/dFlkknNjO7trgekVOjTv1BKCb.nm3vqxmtO2mOplhmFkwZXecz0
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+#17380   GR79 $6$KB$EsP1JEbzKmbN.CzfjPpWW4cFmaULuLMtlwzZweeoOhv.Lq9abZ4eQaZqSzW1X9GmrC8XI4ND3L78fI9HGFrGX/
+33800 solutions explored
+#13393   SD92 $6$KB$Iu4iYgLk4Cuv1Hdc/DTrfNRXVNnKmPPat4bqInq85qs7xNapjF6ZrogA/S88rzpJIWDy27PFI6EzVsg1lL6a80
+33800 solutions explored
+Time elapsed was 253061214249ns or 253.061214249s
+#9979    DV78 $6$KB$H8s0k9/1RQ783G9gF69Xkn.MI.Dq5Ox0va/dFlkknNjO7trgekVOjTv1BKCb.nm3vqxmtO2mOplhmFkwZXecz0
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+#17380   GR79 $6$KB$EsP1JEbzKmbN.CzfjPpWW4cFmaULuLMtlwzZweeoOhv.Lq9abZ4eQaZqSzW1X9GmrC8XI4ND3L78fI9HGFrGX/
+33800 solutions explored
+#13393   SD92 $6$KB$Iu4iYgLk4Cuv1Hdc/DTrfNRXVNnKmPPat4bqInq85qs7xNapjF6ZrogA/S88rzpJIWDy27PFI6EzVsg1lL6a80
+33800 solutions explored
+Time elapsed was 251997953245ns or 251.997953245s
+#9979    DV78 $6$KB$H8s0k9/1RQ783G9gF69Xkn.MI.Dq5Ox0va/dFlkknNjO7trgekVOjTv1BKCb.nm3vqxmtO2mOplhmFkwZXecz0
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+#17380   GR79 $6$KB$EsP1JEbzKmbN.CzfjPpWW4cFmaULuLMtlwzZweeoOhv.Lq9abZ4eQaZqSzW1X9GmrC8XI4ND3L78fI9HGFrGX/
+33800 solutions explored
+#13393   SD92 $6$KB$Iu4iYgLk4Cuv1Hdc/DTrfNRXVNnKmPPat4bqInq85qs7xNapjF6ZrogA/S88rzpJIWDy27PFI6EzVsg1lL6a80
+33800 solutions explored
+Time elapsed was 254673875299ns or 254.673875299s
+#9979    DV78 $6$KB$H8s0k9/1RQ783G9gF69Xkn.MI.Dq5Ox0va/dFlkknNjO7trgekVOjTv1BKCb.nm3vqxmtO2mOplhmFkwZXecz0
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+#17380   GR79 $6$KB$EsP1JEbzKmbN.CzfjPpWW4cFmaULuLMtlwzZweeoOhv.Lq9abZ4eQaZqSzW1X9GmrC8XI4ND3L78fI9HGFrGX/
+33800 solutions explored
+#13393   SD92 $6$KB$Iu4iYgLk4Cuv1Hdc/DTrfNRXVNnKmPPat4bqInq85qs7xNapjF6ZrogA/S88rzpJIWDy27PFI6EzVsg1lL6a80
+33800 solutions explored
+Time elapsed was 255483904407ns or 255.483904407s
